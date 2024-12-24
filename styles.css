@@ -6,16 +6,12 @@ body {
     Find a web safe font you like, and add it 
     to your card.
     */
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifd
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .avatar {
     width: 200px;
     border-radius: 10px;
-}
-
-h3:hover {
-    background-color: yellow;
 }
 
 .card {
